@@ -34,7 +34,7 @@
 # Realice un algoritmo que resuelva la siguiente situación: un producto tenía un precio inicial que debe solicitarse y ahora tiene un nuevo valor, mayor, que también deberá pedirse, determine el porcentaje de incremento del producto. 
 
 * 1.-INICIO 
-* 2.-Datos(producto , precio inicial, nuevo precio,diferencia, porcentaje)
+* 2.-Datos(precio inicial, nuevo precio,diferencia, porcentaje)
 * 3.-Igresar  precio inicial del producto
 * 4.-ingresar  nuevo precio 
 * 5.-diferencia = nuevo precio *100
