@@ -35,6 +35,7 @@
 * 6.-fin
 
 ![image](https://user-images.githubusercontent.com/104279725/167275313-e20718c9-8f9a-4082-9c14-fa19005eea13.png)
+![image](https://user-images.githubusercontent.com/104279725/167275680-24ef8bc6-d1db-4eac-b686-45ef15fed98a.png)
 
 
 ### Un programa que pida una letra y detecte si es una vocal. 
